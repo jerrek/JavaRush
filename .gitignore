@@ -1,0 +1,7 @@
+﻿#############
+## Idea
+#############
+target/
+.idea/
+.idea
+.repository/
