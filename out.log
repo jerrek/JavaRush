@@ -33918,3 +33918,89 @@ java.lang.NullPointerException
 2019-01-14 20:25:07 INFO  ApacheHttpClient.completed(27) - responseCode = 200
 2019-01-14 20:25:07 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
 2019-01-14 20:25:30 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2019-01-14 20:25:37 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2019-01-14 20:25:37 INFO  ApacheHttpClient.testConnection(201) - result = true
+2019-01-14 20:25:58 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2019-01-14 20:25:58 INFO  ApacheHttpClient.getFilteredTasks(327) - responseCode = 200
+2019-01-14 20:25:59 INFO  ApacheHttpClient.getTaskTemplateInfo(344) - responseCode = 200
+2019-01-14 20:26:01 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2019-01-14 20:26:01 INFO  ApacheHttpClient.testConnection(201) - result = true
+2019-01-14 20:26:03 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2019-01-14 20:26:03 INFO  ApacheHttpClient.testConnection(201) - result = true
+2019-01-14 20:26:03 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2019-01-14 20:26:30 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2019-01-14 20:26:56 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2019-01-14 20:26:56 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2019-01-14 20:26:56 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
+2019-01-14 20:26:58 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2019-01-14 20:26:58 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
+2019-01-14 20:27:30 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2019-01-14 20:27:33 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2019-01-14 20:27:33 INFO  ApacheHttpClient.getFilteredTasks(327) - responseCode = 200
+2019-01-14 20:27:35 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2019-01-14 20:27:35 INFO  ApacheHttpClient.testConnection(201) - result = true
+2019-01-14 20:27:36 INFO  ApacheHttpClient.getTaskTemplateInfo(344) - responseCode = 200
+2019-01-14 20:27:38 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2019-01-14 20:27:38 INFO  ApacheHttpClient.testConnection(201) - result = true
+2019-01-14 20:27:40 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2019-01-14 20:27:40 INFO  ApacheHttpClient.testConnection(201) - result = true
+2019-01-14 20:27:40 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2019-01-14 20:28:30 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2019-01-14 20:29:09 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2019-01-14 20:29:09 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
+2019-01-14 20:29:09 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2019-01-14 20:29:11 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2019-01-14 20:29:30 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2019-01-14 20:30:30 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2019-01-14 20:31:30 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2019-01-14 20:31:31 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2019-01-14 20:31:31 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2019-01-14 20:31:31 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
+2019-01-14 20:31:32 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2019-01-14 20:31:41 INFO  JavaRushTasksProjectComponent.projectClosing(165) - ---------- Project JavaRushTasks closed ----------
+
+2019-01-14 20:31:41 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
+2019-01-14 20:31:41 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
+2019-01-14 20:31:41 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
+2019-01-14 20:31:42 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
+2019-01-14 20:31:42 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
+2019-01-14 20:31:42 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
+2019-01-14 20:31:42 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
+2019-01-14 20:31:42 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
+2019-01-14 20:31:42 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
+2019-01-14 20:32:44 INFO  JavaRushTasksProjectComponent.projectOpened(68) - ---------- Project JavaRushTasks opened ----------
+2019-01-14 20:32:44 INFO  JavaRushTasksProjectComponent.projectOpened(69) - ---------- Version 3.24 ----------
+
+2019-01-14 20:32:45 INFO  ApacheHttpClient.createAsyncHttpClient(132) - Выбрано 1 прокси. Тип : DIRECT
+2019-01-14 20:32:45 INFO  ApacheHttpClient.<init>(90) - ApacheHttpClient проинстанциирован успешно.
+2019-01-14 20:32:46 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2019-01-14 20:32:46 INFO  ApacheHttpClient.testConnection(201) - result = true
+2019-01-14 20:32:46 INFO  ApacheHttpClient.login(231) - Ожидание ответа сервера.
+2019-01-14 20:32:47 INFO  ApacheHttpClient.login(235) - responseCode = 200
+2019-01-14 20:32:47 INFO  ApacheHttpClient.login(266) - JSESSIONID OK
+2019-01-14 20:32:47 INFO  ApacheHttpClient.refreshUserInfo(294) - responseCode = 200
+2019-01-14 20:32:47 INFO  ApacheHttpClient.refreshUserInfo(300) - Информация о пользователе получена.
+2019-01-14 20:32:47 INFO  ApacheHttpClient.startGA(31) - GAService запущен.
+2019-01-14 20:32:47 INFO  AbstractRestApiClient.startService(70) - EventsService запущен.
+2019-01-14 20:33:26 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2019-01-14 20:33:27 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
+2019-01-14 20:33:28 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2019-01-14 20:33:28 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2019-01-14 20:33:47 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2019-01-14 20:33:47 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2019-01-14 20:33:49 INFO  ApacheHttpClient.resetTask(314) - responseCode = 200
+2019-01-14 20:33:49 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
+2019-01-14 20:33:49 INFO  ApacheHttpClient.getTaskTemplateInfo(344) - responseCode = 200
+2019-01-14 20:33:51 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2019-01-14 20:33:51 INFO  ApacheHttpClient.testConnection(201) - result = true
+2019-01-14 20:33:53 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2019-01-14 20:33:53 INFO  ApacheHttpClient.testConnection(201) - result = true
+2019-01-14 20:33:53 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2019-01-14 20:34:24 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2019-01-14 20:34:24 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
+2019-01-14 20:34:24 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2019-01-14 20:34:25 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2019-01-14 20:34:26 INFO  ApacheHttpClient.getTask(475) - responseCode = 200
+2019-01-14 20:34:47 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2019-01-14 20:34:58 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2019-01-14 20:34:58 INFO  ApacheHttpClient.testConnection(201) - result = true
